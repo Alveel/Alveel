@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Alveel
 - 👀 I'm interested in Linux, Python, Containers (Docker, Kubernetes, OpenShift), Infrastructure as Code, CI/CD, and anything DevOps.
-- 🌱 I'm currently deepening my knowledge on Kubernetes networking, OpenShift, and Terraform.
+- 🌱 I'm currently deepening my knowledge on Kubernetes, OpenShift, Helm, ArgoCD, Ansible and Terraform.
 - [🎓](https://www.credly.com/users/alwyn/badges) Red Hat Certified Engineer and Certified Kubernetes Administrator
